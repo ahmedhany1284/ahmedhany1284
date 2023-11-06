@@ -41,7 +41,7 @@
 
 <!-- here the photos of the stats -->
 
-  <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=ahmedhany1284&show_icons=true&theme=radical">
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhany1284&hide_progress=true">
+ <p><img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=ahmedhany1284&show_icons=true&theme=radical"></p>
+<p><img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhany1284&hide_progress=true"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedhany1284&" alt="Ahmed Hany" /></p>
